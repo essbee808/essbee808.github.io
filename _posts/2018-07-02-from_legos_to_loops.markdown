@@ -1,12 +1,12 @@
 ---
 layout: post
-title:      "**From Legos to Loops**"
-date:       2018-07-02 18:40:42 +0000
+title:      "From Legos to Loops"
+date:       2018-07-02 14:40:43 -0400
 permalink:  from_legos_to_loops
 ---
 
 
-*"How was work today?"
+*"How was work today?*"
 
 *"It was great! I surpassed my 10,000 steps goal, went to my first Pokemon Go raid, rode the 8 bus to Guitar Center, and made $12.77 on Job Spotter."*
 
