@@ -10,3 +10,5 @@ For my CLI project, I wanted to create something that was applicable to the popu
 This project tested my knowledge of object-oriented programming and provided opportunities for me to become more familiar with git commands. The feedback that I received during the process also helped to extend the functionality of my CLI application. For example, one user mistyped her zipcode and asked if she could go back and type a different zipcode. I wrote out pseudo code, used pry to check return values and made changes to the conditional statement in my #make_selection method.
 
 
+
+
