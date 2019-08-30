@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Portfolio Project - Ez Rsvp"
-date:       2019-08-30 06:56:55 +0000
+date:       2019-08-30 02:56:56 -0400
 permalink:  sinatra_portfolio_project_-_ez_rsvp
 ---
 
