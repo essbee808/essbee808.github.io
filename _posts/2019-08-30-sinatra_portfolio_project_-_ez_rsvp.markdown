@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Sinatra Portfolio Project - Ez Rsvp"
+title:      "Sinatra Portfolio Project - FACTivities"
 date:       2019-08-30 02:56:56 -0400
 permalink:  sinatra_portfolio_project_-_ez_rsvp
 ---
@@ -8,7 +8,7 @@ permalink:  sinatra_portfolio_project_-_ez_rsvp
 
 In recent months, I have taken on an additional role at work as an event planner for our monthly social outings. Planning activities for a non-profit organization is fun, however, it can also be overwhelming at times. There are other factors to consider when working with adults with intellectual and developmental disabilities, including dietary considerations, physical limitations, and modes of transportation (i.e. bus, rideshare, Access, etc.). As a way to encourage participation in the planning process, I wanted to create an application that allows both staff and clients to post, view, and rsvp for events. 
 
-For my Sinatra project, I created "Ez Rsvp," a simple content management system for organizers and attendees. This app allows users to:
+For my Sinatra project, I created "FACTivities," a simple content management system for organizers and attendees. This app allows users to:
 * create an account
 * autenticate the user's information by email and password
 * login / logout
