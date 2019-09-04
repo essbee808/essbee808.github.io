@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Sinatra Portfolio Project - FACTivities"
+title:      "Sinatra Portfolio Project - FACTivity"
 date:       2019-08-30 02:56:56 -0400
 permalink:  sinatra_portfolio_project_-_ez_rsvp
 ---
