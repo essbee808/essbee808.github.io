@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My 100 Days of Code"
-date:       2022-03-08 23:20:20 +0000
+date:       2022-03-08 18:20:20 -0500
 permalink:  my_100_days_of_code
 ---
 
