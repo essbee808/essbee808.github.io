@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "JS + Rails API Project"
+title:      "JS + Rails API - CaliGolf"
 date:       2022-07-07 16:57:56 -0400
 permalink:  javascript_project
 ---
